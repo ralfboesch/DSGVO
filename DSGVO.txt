@@ -87,7 +87,7 @@ Problematische/Unklare Anwendungsfälle:
 
 
 --------------------------------------------------------------
-Wichtig für Unternehmen (generell > 250 Mitarbeiter, aber Außnahmen möglich):
+Wichtig für Unternehmen (generell > 250 Mitarbeiter, aber Ausnahmen möglich):
 --------------------------------------------------------------
  - Führen eines Verzeichnisses über Datenverarbeitungsvorgänge
    Musterverzeichnis: https://www.lfd.niedersachsen.de/themen/wirtschaft/verfahrensverzeicnis_und_verfahrensregister_nach_bdsg/verfahrensregister-und-verfahrensbeschreibung-fuer-den-nicht-oeffentlichen-bereich-56247.html
